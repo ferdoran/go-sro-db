@@ -1,0 +1,2 @@
+GRANT ALL ON `SRO_SHARD`.* TO 'sro'@'%'
+GRANT ALL ON `SRO_ACCOUNT`.* TO 'sro'@'%'
